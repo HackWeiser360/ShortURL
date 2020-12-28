@@ -1,5 +1,7 @@
 # ShortURL
 ShortURL is a shell based script for shortening your URL/link. It is available in Termux(both rooted&non rooted devices) and Parrot OS. Get more tools from HackWeiser360 [here](https://GitHub.com/HackWeiser360) 
+<p align="center">
+<a href="https://www.codefactor.io/repository/github/HackWeiser360/ShortURL/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/HackWeiser360/ShortURl/badge/master"></a>
 
 ***
 ### [+] Installation and Usage
