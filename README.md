@@ -19,3 +19,4 @@ ShortURL is a shell based script for shortening your URL/link. It is available i
 ### Visit our YouTube channel. [Why not?](https://youtube.com/channel/UC02OkpTZkxRZCEzFjawf6mA)
 ### Visit our [FaceBook Page](fb.me/HackWeiser360)
 ### You can leave a message [here](m.me/HackWeiser360)
+### Visit [here](https://github.com/HackWeiser360) for more tools
